@@ -1,0 +1,46 @@
+body{
+    background-color: gray;
+}
+
+table{
+    width: 1000px;
+    background-color: #fff;
+    border: 2px solid blue;
+    border-collapse: collapse;
+
+}
+tr,th{
+    border: 1px solid red;
+    border-collapse: collapse;
+}
+
+.short{
+    width: 200px;
+
+}
+
+th{
+    text-align: right;
+}
+
+.left{
+    text-align: left;
+}
+
+h1{
+    color: darkblue;
+}
+p{
+    text-align: justify;
+}
+.first{
+    color: brown;
+}
+#VW{
+   padding-bottom: 30px;
+}
+
+p,a,h1,h3{
+    margin-top:18px;
+    margin-bottom: 18px;
+}
